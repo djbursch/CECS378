@@ -1,0 +1,29 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "lets see",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djbursch/CECS378.git"
+  },
+  "bugs": {
+    "url": "https://github.com/djbursch/CECS378/issues"
+  },
+  "homepage": "https://github.com/djbursch/CECS378#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "name": "0.0.2",
+    "node.js": "0.0.0",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "app"
+  ]
+}
